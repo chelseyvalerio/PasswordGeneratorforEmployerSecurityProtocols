@@ -42,6 +42,11 @@ The following image shows the web application's appearance and functionality:
 
 Notes: I personally found this challenge moderate difficulty upon initial look however, once I started developing, the given code did throw me off a bit. After a good while of doing external-to-class research, I was able to find the majority of code that would make it work properly. There are a few things I need to go back and review such as Math features and how to get a function to return properly. I am hopeful the pushed code will suffice majority of grading requirements but will certainly continue working on this and resubmit if opportunity is presented. 
 
+Updated Feedback after further working and for Assignment Resubmission: I was definitely overthinking this and getting ahead of myself, trying to jump to problem solving before I had all syntax outlined. Requested Tutor assistance to see where I was stumbling and he helped a ton break it down for me into more simplistic understanding. I feel much better about this assignment now and am excited to have the functioning files as a resource down the road. This was a great assignment and thus why I knew I had to keep working on this until I was able to get it!
+
+
+
+
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
