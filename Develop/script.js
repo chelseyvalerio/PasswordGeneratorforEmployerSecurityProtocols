@@ -64,7 +64,7 @@ function generatePassword() {
 
   var specConfirm = confirm("do you want to use special characters?");
   if(specConfirm == true) {
-    availableCharacters+specharacters;
+    availableCharacters += specharacters;
     }
 
   var generatedPassword = "";
